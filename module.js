@@ -3,7 +3,7 @@
 
 // console.log(color.red("hello red color"));
 
-//IIFE FUNCTION
+//IIFE FUNCTION(Immediately Invoked Function Expression)
 (function(name){
     var age = 25;
     var name = "Saurabh"
