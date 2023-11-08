@@ -8,6 +8,7 @@
     var age = 25;
     var name = "Saurabh"
     console.log(name,age);
-    
+
 })()
 //IIFE(invoke function)
+
