@@ -5,8 +5,9 @@
 // IIFE FUNCTION(Immediately Invoked Function Expression)
 
 (function(name){
+
     var age = 25;
-    var name = "Saurabh"
+    var name = "Saurabh";
     console.log(name,age);
 
 })()
