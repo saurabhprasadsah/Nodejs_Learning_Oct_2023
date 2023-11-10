@@ -1,8 +1,8 @@
 
 // const color = require('cli-color')
 
-// console.log(color.red("hello red color"));
-//IIFE FUNCTION(Immediately Invoked Function Expression)
+// console.log(color.red("Hello red color"));
+// IIFE FUNCTION(Immediately Invoked Function Expression)
 
 (function(name){
     var age = 25;
