@@ -10,5 +10,7 @@
     console.log(name,age);
 
 })()
+
+
 //IIFE(invoke function)
 
