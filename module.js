@@ -33,5 +33,7 @@ const path = require('path')
 
 //filename
 
-console.log('Folder name:', path.basename(__filename));
+// console.log('Folder name:', path.basename(__filename));
+
+//
 
