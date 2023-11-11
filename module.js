@@ -13,6 +13,25 @@
 //IIFE(invoke function)
 
 //local module
-const auth = require('./auth')
-auth.register('saurbh kumar')
-auth.login('saurabh kumar')
+// const auth = require('./auth')
+// auth.register('saurbh kumar')
+// auth.login('saurabh kumar')
+
+
+//core module
+
+//path
+
+const { log } = require('console')
+const path = require('path')
+
+// console.log(__filename);
+
+//dirname
+
+// console.log('Folder name:', path.dirname(__filename))
+
+//filename
+
+console.log('Folder name:', path.basename(__filename));
+
