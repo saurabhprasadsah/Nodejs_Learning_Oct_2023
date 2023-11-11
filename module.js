@@ -1,7 +1,7 @@
 
-const color = require('cli-color')
+// const color = require('cli-color')
 
-console.log(color.red("Hello Nodejs from javascript"));
+// console.log(color.yellow("Hello Nodejs from javascript"));
 
 // IIFE FUNCTION(Immediately Invoked Function Expression)
 // (function(name){
@@ -12,3 +12,9 @@ console.log(color.red("Hello Nodejs from javascript"));
 
 //IIFE(invoke function)
 
+
+//local module
+
+const register = require('./auth')
+
+register('saurbh kumar')
