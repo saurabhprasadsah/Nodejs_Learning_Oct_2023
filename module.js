@@ -12,9 +12,7 @@
 
 //IIFE(invoke function)
 
-
 //local module
-
-const register = require('./auth')
-
-register('saurbh kumar')
+const auth = require('./auth')
+auth.register('saurbh kumar')
+auth.login('saurabh kumar')
