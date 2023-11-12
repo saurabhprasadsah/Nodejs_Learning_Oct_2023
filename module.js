@@ -40,4 +40,9 @@ const path = require('path')
 // console.log('ext name:', path.extname(__filename));
 
 
+//parse 
+
+ console.log('parse :', path.parse(__filename));
+
+
 
