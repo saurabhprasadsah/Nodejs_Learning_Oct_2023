@@ -35,5 +35,9 @@ const path = require('path')
 
 // console.log('Folder name:', path.basename(__filename));
 
-//
+//extension
+
+// console.log('ext name:', path.extname(__filename));
+
+
 
