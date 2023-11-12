@@ -27,22 +27,33 @@ const path = require('path')
 
 // console.log(__filename);
 
-//dirname
+// Dirname
 
 // console.log('Folder name:', path.dirname(__filename))
 
-//filename
+// Filename
 
 // console.log('Folder name:', path.basename(__filename));
 
-//extension
+// Extension
 
 // console.log('ext name:', path.extname(__filename));
 
 
-//parse 
+// Parse 
 
- console.log('parse :', path.parse(__filename));
+// console.log('parse :', path.parse(__filename));
+
+
+// Join
+
+// console.log('join :', path.join(__dirname, 'order', 'app.js'));
+
+//
+
+
+
+
 
 
 
