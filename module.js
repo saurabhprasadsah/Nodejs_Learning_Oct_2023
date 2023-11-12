@@ -22,8 +22,8 @@
 
 //path
 
-const { log } = require('console')
-const path = require('path')
+// const { log } = require('console')
+// const path = require('path')
 
 // console.log(__filename);
 
