@@ -21,33 +21,20 @@
 //core module
 
 //path
-
 // const { log } = require('console')
 // const path = require('path')
-
 // console.log(__filename);
-
 // Dirname
-
 // console.log('Folder name:', path.dirname(__filename))
-
 // Filename
-
 // console.log('Folder name:', path.basename(__filename));
-
 // Extension
-
 // console.log('ext name:', path.extname(__filename));
-
-
 // Parse 
-
 // console.log('parse :', path.parse(__filename));
-
-
 // Join
-
 // console.log('join :', path.join(__dirname, 'order', 'app.js'));
+
 
 // File system
 
